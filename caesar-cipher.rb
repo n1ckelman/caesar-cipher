@@ -14,4 +14,4 @@ def cesar(string, form)
     puts result.join("").capitalize
 end
 
-cesar("What a string!", 5)
+cesar("what a string!", 5)
